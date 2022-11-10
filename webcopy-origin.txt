@@ -1,0 +1,700 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.0.3
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Work+Sans:400|DM+Serif+Display:600%2C400&display=fallback&ver=3.9.2
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmserifdisplay/v10/-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx1w.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\dmserifdisplay\v10\-nFnOHM81r4j6k0gjAW3mujVU2B2G_Bx1w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/worksans/v18/QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jow.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\s\worksans\v18\QGY_z_wNahGAdqQ43RhVcIgYT2Xz5u32K0nXBi8Jow.ttf
+Content Type: font/ttf
+
+Uri: https://morganstevenscapital.com/
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\index.htm
+Content Type: text/html
+
+Uri: https://morganstevenscapital.com/comments/feed/
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://morganstevenscapital.com/feed/
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://morganstevenscapital.com/finanzwissen/
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\finanzwissen\index.htm
+Content Type: text/html
+
+Uri: https://morganstevenscapital.com/impressum/
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\impressum\index.htm
+Content Type: text/html
+
+Uri: https://morganstevenscapital.com/ipo/
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\ipo\index.htm
+Content Type: text/html
+
+Uri: https://morganstevenscapital.com/kontakt/
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\kontakt\index.htm
+Content Type: text/html
+
+Uri: https://morganstevenscapital.com/uber-uns/
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\uber-uns\index.htm
+Content Type: text/html
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.7.7
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.7.7
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.7.7
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.7.7
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.7.7
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.16.0
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.16.0
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.16.0
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.16.0
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.16.0
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: application/x-javascript
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.13
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\header-footer-elementor\assets\css\header-footer-elementor.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.13
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\header-footer-elementor\inc\widgets-css\frontend.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/wpforms-lite/assets/css/wpforms-base.min.css?ver=1.7.6
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\wpforms-lite\assets\css\wpforms-base.min.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/wpforms-lite/assets/images/times-solid-white.svg
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\wpforms-lite\assets\images\times-solid-white.svg
+Content Type: image/svg+xml
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.7.6
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\wpforms-lite\assets\js\integrations\elementor\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/wpforms-lite/assets/js/utils.min.js?ver=1.7.6
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\wpforms-lite\assets\js\utils.min.js
+Content Type: application/x-javascript
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/wpforms-lite/assets/js/wpforms.min.js?ver=1.7.6
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\wpforms-lite\assets\js\wpforms.min.js
+Content Type: application/x-javascript
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.19.5
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\wpforms-lite\assets\lib\jquery.validate.min.js
+Content Type: application/x-javascript
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\wpforms-lite\assets\lib\mailcheck.min.js
+Content Type: application/x-javascript
+
+Uri: https://morganstevenscapital.com/wp-content/plugins/wpforms-lite/assets/lib/punycode.min.js?ver=1.0.0
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\plugins\wpforms-lite\assets\lib\punycode.min.js
+Content Type: application/x-javascript
+
+Uri: https://morganstevenscapital.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=3.9.2
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\themes\astra\assets\css\minified\frontend.min.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-content/themes/astra/assets/fonts/astra.svg
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\themes\astra\assets\fonts\astra.svg
+Content Type: image/svg+xml
+
+Uri: https://morganstevenscapital.com/wp-content/themes/astra/assets/fonts/astra.ttf
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\themes\astra\assets\fonts\astra.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://morganstevenscapital.com/wp-content/themes/astra/assets/fonts/astra.woff
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\themes\astra\assets\fonts\astra.woff
+Content Type: application/font-woff
+
+Uri: https://morganstevenscapital.com/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=3.9.2
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2020/10/pattern-v-123x300.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2020\10\pattern-v-123x300.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2020/10/pattern-v.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2020\10\pattern-v.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/16-copy-1024x1024.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\16-copy-1024x1024.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/16-copy-150x150.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\16-copy-150x150.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/16-copy-1536x1536.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\16-copy-1536x1536.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/16-copy-300x300.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\16-copy-300x300.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/16-copy-768x768.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\16-copy-768x768.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/16-copy.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\16-copy.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1613494890_DAT_Stacked_Lock_up_Full_Color@2x-2-400x223-1-300x167.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1613494890_DAT_Stacked_Lock_up_Full_Color@2x-2-400x223-1-300x167.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1613494890_DAT_Stacked_Lock_up_Full_Color@2x-2-400x223-1.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1613494890_DAT_Stacked_Lock_up_Full_Color@2x-2-400x223-1.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1613572291_Stripe-Logo-blue-1-1-1024x429.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1613572291_Stripe-Logo-blue-1-1-1024x429.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1613572291_Stripe-Logo-blue-1-1-1536x643.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1613572291_Stripe-Logo-blue-1-1-1536x643.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1613572291_Stripe-Logo-blue-1-1-300x126.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1613572291_Stripe-Logo-blue-1-1-300x126.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1613572291_Stripe-Logo-blue-1-1-768x321.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1613572291_Stripe-Logo-blue-1-1-768x321.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1613572291_Stripe-Logo-blue-1-1.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1613572291_Stripe-Logo-blue-1-1.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1631016281_reddit_logo-1024x331.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1631016281_reddit_logo-1024x331.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1631016281_reddit_logo-1536x497.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1631016281_reddit_logo-1536x497.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1631016281_reddit_logo-2048x662.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1631016281_reddit_logo-2048x662.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1631016281_reddit_logo-300x97.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1631016281_reddit_logo-300x97.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1631016281_reddit_logo-768x248.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1631016281_reddit_logo-768x248.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1639993101_Discord_logo-1024x194.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1639993101_Discord_logo-1024x194.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1639993101_Discord_logo-1536x291.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1639993101_Discord_logo-1536x291.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1639993101_Discord_logo-2048x388.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1639993101_Discord_logo-2048x388.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1639993101_Discord_logo-300x57.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1639993101_Discord_logo-300x57.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1639993101_Discord_logo-768x146.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1639993101_Discord_logo-768x146.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1639993101_Discord_logo.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1639993101_Discord_logo.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1640002950_impossible_with_transparency.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1640002950_impossible_with_transparency.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1640003429_logotip-TikTok-1024x299.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1640003429_logotip-TikTok-1024x299.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1640003429_logotip-TikTok-1536x448.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1640003429_logotip-TikTok-1536x448.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1640003429_logotip-TikTok-300x88.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1640003429_logotip-TikTok-300x88.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1640003429_logotip-TikTok-768x224.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1640003429_logotip-TikTok-768x224.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/1640003429_logotip-TikTok.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\1640003429_logotip-TikTok.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/24_marketing_flat_bundle_design_illustration-copy-1170x1536.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\24_marketing_flat_bundle_design_illustration-copy-1170x1536.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/24_marketing_flat_bundle_design_illustration-copy-1560x2048.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\24_marketing_flat_bundle_design_illustration-copy-1560x2048.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/24_marketing_flat_bundle_design_illustration-copy-229x300.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\24_marketing_flat_bundle_design_illustration-copy-229x300.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/24_marketing_flat_bundle_design_illustration-copy-768x1008.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\24_marketing_flat_bundle_design_illustration-copy-768x1008.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/24_marketing_flat_bundle_design_illustration-copy-780x1024.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\24_marketing_flat_bundle_design_illustration-copy-780x1024.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/24_marketing_flat_bundle_design_illustration-copy.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\24_marketing_flat_bundle_design_illustration-copy.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/31-1-1215x2048.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\31-1-1215x2048.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/31-1-178x300.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\31-1-178x300.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/31-1-607x1024.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\31-1-607x1024.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/31-1-768x1295.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\31-1-768x1295.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/31-1-911x1536.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\31-1-911x1536.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/31-1.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\31-1.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/95-scaled.jpg
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\95-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/abstract-golden-textured-material-scaled.jpeg
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\abstract-golden-textured-material-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/business-people-education-concept-young-smiling-businesswoman-office-building-copy.jpg
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\business-people-education-concept-young-smiling-businesswoman-office-building-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/business-succcess-winning-concept-group-businesspeople-celebrating-victory-scaled.jpeg
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\business-succcess-winning-concept-group-businesspeople-celebrating-victory-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/cropped-LOGO-MS-2-copy-180x180.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\cropped-LOGO-MS-2-copy-180x180.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/cropped-LOGO-MS-2-copy-192x192.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\cropped-LOGO-MS-2-copy-192x192.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/cropped-LOGO-MS-2-copy-32x32.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\cropped-LOGO-MS-2-copy-32x32.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/imgonline-com-ua-dexifwPMrjmka3iGs.jpeg
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\imgonline-com-ua-dexifwPMrjmka3iGs.jpeg
+Content Type: image/jpeg
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/logo-1024x210.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\logo-1024x210.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/logo-1536x316.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\logo-1536x316.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/logo-2048x421.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\logo-2048x421.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/logo-300x62.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\logo-300x62.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/logo-768x158.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\logo-768x158.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/LOGO-MS-1-1024x683.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\LOGO-MS-1-1024x683.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/LOGO-MS-1-1536x1025.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\LOGO-MS-1-1536x1025.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/LOGO-MS-1-2048x1367.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\LOGO-MS-1-2048x1367.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/LOGO-MS-1-300x200.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\LOGO-MS-1-300x200.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/LOGO-MS-1-768x513.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\LOGO-MS-1-768x513.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/LOGO-MS-2-copy-120x81.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\LOGO-MS-2-copy-120x81.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/LOGO-MS-3-150x102.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\LOGO-MS-3-150x102.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/LOGO-MS-3.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\LOGO-MS-3.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/pexels-alphatradezone-5833861-scaled.jpeg
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\pexels-alphatradezone-5833861-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/pexels-picas-joe-11362703-scaled.jpeg
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\pexels-picas-joe-11362703-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/pexels-pixabay-332311-scaled.jpeg
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\pexels-pixabay-332311-scaled.jpeg
+Content Type: image/jpeg
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/stock-market-quotes07.jpeg
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\stock-market-quotes07.jpeg
+Content Type: image/jpeg
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/2022/09/Untitled-1-1.png
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\2022\09\Untitled-1-1.png
+Content Type: image/png
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/elementor/css/post-14.css?ver=1664951311
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\elementor\css\post-14.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/elementor/css/post-16.css?ver=1664877423
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\elementor\css\post-16.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/elementor/css/post-476.css?ver=1664182607
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\elementor\css\post-476.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/elementor/css/post-715.css?ver=1663766530
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\elementor\css\post-715.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/elementor/css/post-850.css?ver=1664954848
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\elementor\css\post-850.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/elementor/css/post-851.css?ver=1664290781
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\elementor\css\post-851.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-content/uploads/elementor/css/post-852.css?ver=1665478374
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-content\uploads\elementor\css\post-852.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://morganstevenscapital.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://morganstevenscapital.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://morganstevenscapital.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://morganstevenscapital.com/wp-includes/js/underscore.min.js?ver=1.13.3
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-includes\js\underscore.min.js
+Content Type: application/x-javascript
+
+Uri: https://morganstevenscapital.com/wp-includes/js/wp-util.min.js?ver=6.0.3
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-includes\js\wp-util.min.js
+Content Type: application/x-javascript
+
+Uri: https://morganstevenscapital.com/wp-includes/wlwmanifest.xml
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://morganstevenscapital.com/wp-json/
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://morganstevenscapital.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmorganstevenscapital.com%2F
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://morganstevenscapital.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmorganstevenscapital.com%2F&format=xml
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://morganstevenscapital.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmorganstevenscapital.com%2Ffinanzwissen%2F
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://morganstevenscapital.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmorganstevenscapital.com%2Ffinanzwissen%2F&format=xml
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://morganstevenscapital.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmorganstevenscapital.com%2Fimpressum%2F
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://morganstevenscapital.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmorganstevenscapital.com%2Fimpressum%2F&format=xml
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://morganstevenscapital.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmorganstevenscapital.com%2Fipo%2F
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://morganstevenscapital.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmorganstevenscapital.com%2Fipo%2F&format=xml
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://morganstevenscapital.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmorganstevenscapital.com%2Fkontakt%2F
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://morganstevenscapital.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmorganstevenscapital.com%2Fkontakt%2F&format=xml
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://morganstevenscapital.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmorganstevenscapital.com%2Fuber-uns%2F
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://morganstevenscapital.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fmorganstevenscapital.com%2Fuber-uns%2F&format=xml
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://morganstevenscapital.com/wp-json/wp/v2/pages/14
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\wp\v2\pages\14
+Content Type: application/json
+
+Uri: https://morganstevenscapital.com/wp-json/wp/v2/pages/16
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\wp\v2\pages\16
+Content Type: application/json
+
+Uri: https://morganstevenscapital.com/wp-json/wp/v2/pages/476
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\wp\v2\pages\476
+Content Type: application/json
+
+Uri: https://morganstevenscapital.com/wp-json/wp/v2/pages/850
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\wp\v2\pages\850
+Content Type: application/json
+
+Uri: https://morganstevenscapital.com/wp-json/wp/v2/pages/851
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\wp\v2\pages\851
+Content Type: application/json
+
+Uri: https://morganstevenscapital.com/wp-json/wp/v2/pages/852
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\wp-json\wp\v2\pages\852
+Content Type: application/json
+
+Uri: https://morganstevenscapital.com/xmlrpc.php?rsd
+File Name: C:\Users\Device\Desktop\klon\morganstevenscapital.com\xmlrpc.php
+Content Type: text/xml
+
